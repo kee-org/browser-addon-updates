@@ -4,7 +4,10 @@
       "updates": [
         { "version": "2.2.3beta",
           "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.2.3/kee-2.2.3beta-an.fx-windows.xpi"
-		}
+	},
+	{ "version": "2.2.4beta",
+          "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.2.4/kee-2.2.4beta-an.fx.xpi"
+	}
       ]
     }
   }
