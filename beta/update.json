@@ -1,0 +1,11 @@
+{
+  "addons": {
+    "keefox@chris.tomlinson": {
+      "updates": [
+        { "version": "2.2.3beta",
+          "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.2.3/kee-2.2.3beta-an.fx-windows.xpi"
+		}
+      ]
+    }
+  }
+}
