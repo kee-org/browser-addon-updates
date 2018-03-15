@@ -1,20 +1,29 @@
 {
-  "addons": {
-    "keefox@chris.tomlinson": {
-      "updates": [
-        { "version": "2.2.3beta",
-          "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.2.3/kee-2.2.3beta-an.fx-windows.xpi"
-        },
-        { "version": "2.2.4beta",
-          "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.2.4/kee-2.2.4beta-an.fx.xpi"
-        },
-        { "version": "2.2.5beta",
-          "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.2.5/kee-2.2.5beta-an.fx.xpi"
-        },
-        { "version": "2.2.8beta",
-          "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.2.8/kee-2.2.8beta-an.fx.xpi"
-        }        
-      ]
+    "addons": {
+        "keefox@chris.tomlinson": {
+            "updates": [
+                {
+                    "version": "2.2.3beta",
+                    "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.2.3/kee-2.2.3beta-an.fx-windows.xpi"
+                },
+                {
+                    "version": "2.2.4beta",
+                    "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.2.4/kee-2.2.4beta-an.fx.xpi"
+                },
+                {
+                    "version": "2.2.5beta",
+                    "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.2.5/kee-2.2.5beta-an.fx.xpi"
+                },
+                {
+                    "version": "2.2.8beta",
+                    "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.2.8/kee-2.2.8beta-an.fx.xpi"
+                },
+                {
+                    "version": "2.3.18beta",
+                    "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.3.18/kee-2.3.18beta-an.fx.xpi",
+                    "update_hash": "sha256:2ebcdc888207515882ed7399f7efce924f0f89ebc5ff267c3d8771d7b8b0a63e"
+                }
+            ]
+        }
     }
-  }
 }
