@@ -47,6 +47,11 @@
                     "version": "2.4.15beta",
                     "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.4.15/kee-2.4.15beta-an+fx.xpi",
                     "update_hash": "sha256:40017d9927c6309bce25a4b71efe5ed1622aa8a82c83fe1e6c5ebda436e37c9f"
+                },
+                {
+                    "version": "2.5.6beta",
+                    "update_link": "https://github.com/kee-org/browser-addon/releases/download/2.5.6/kee-2.5.6beta-an+fx.xpi",
+                    "update_hash": "sha256:6ee67be368049702d4a3fe161fa4527852401ed592af4e525ba238de8ad78958"
                 }
             ]
         }
