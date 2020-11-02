@@ -142,6 +142,11 @@
                     "version": "3.6.25beta",
                     "update_link": "https://github.com/kee-org/browser-addon/releases/download/3.6.25/kee_password_manager-3.6.25beta-an+fx.xpi",
                     "update_hash": "sha256:a106c666e351482f7e460a5c3a0e2daf9574f2ed2f6f5a540d39c5cff75bf157"
+                },
+                {
+                    "version": "3.6.26beta",
+                    "update_link": "https://github.com/kee-org/browser-addon/releases/download/3.6.26/kee_password_manager-3.6.26beta-an+fx.xpi",
+                    "update_hash": "sha256:68e8c2c0a782004e8d5f6e68dda5b4e24074da0995c72603b0d50a5cfa74d544"
                 }
             ]
         }
