@@ -207,6 +207,14 @@
                     "version": "3.11.10",
                     "update_link": "https://github.com/kee-org/browser-addon/releases/download/3.11.10/kee_password_manager-3.11.10beta-signed.xpi",
                     "update_hash": "sha256:28c474c886fa8062635556462a50d5818d11e1b2e0a426dc9e890ba83723f009"
+                },
+                {
+                    "version": "4.0.5",
+                    "update_link": "https://github.com/kee-org/browser-addon/releases/download/4.0.5/keefox-4.0.5-beta.xpi",
+                    "update_hash": "sha256:62dfcaf877e6a1dd233f19cf8f85175e88c7f611ab2002db13285fa22bf4996e",
+                    "applications": {
+                        "gecko": { "strict_min_version": "126.0" }
+                    }
                 }
             ]
         }
